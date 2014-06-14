@@ -18,7 +18,7 @@ Study
 스케줄
 --------
  - <b>2014.06.15(일) 14:00 <a href="http://map.naver.com/local/siteview.nhn?code=33068413">낙성대 오렌지연필</a></b>
- - <del(취소)2014.05.18(일) 14:00 <a href="http://map.naver.com/local/siteview.nhn?code=33068413">낙성대 오렌지연필</a></del>
+ - <del>(취소)2014.05.18(일) 14:00 <a href="http://map.naver.com/local/siteview.nhn?code=33068413">낙성대 오렌지연필</a></del>
  - <del>2014.05.11(일) 14:00 <a href="http://map.naver.com/local/siteview.nhn?code=33068413">낙성대 오렌지연필</a></del>
  - <del>2014.04.13(일) 14:00 <a href="http://map.naver.com/local/siteview.nhn?code=31401439">낙성대 오페뜨(커피숍)</a></del>
 
